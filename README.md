@@ -17,8 +17,8 @@ top-performing products, and overall revenue trends to help inform marketing and
 5-What is the total revenue for each year?
 
 # Dataset:
-
 Source:Dataset link: https://github.com/rishabhnmishra/SQL_Music_Store_Analysis/blob/main/music%20store%20data.zip
+
 Format: CSV files with main tables:
 
 customer – customer details (name, country, contact info)
