@@ -21,11 +21,11 @@ Source:Dataset link: https://github.com/rishabhnmishra/SQL_Music_Store_Analysis/
 
 Format: CSV files with main tables:
 
-customer – customer details (name, country, contact info)
+customer – customer details .
 
-invoice – invoice-level data (date, billing country, total amount)
+invoice – invoice-level data .
 
-invoice_line – purchased items per invoice (unit price, quantity, track ID)
+invoice_line – purchased items per invoice.
 
 # 🛠 Project:
 Task 1: Data Ingestion & Initial Exploration
@@ -37,12 +37,12 @@ Task 1: Data Ingestion & Initial Exploration
 ​Task 4: Insight Generation & Reporting
 
 # 📊 Key Insights
- 1-Top Country by Customers: 🇺🇸 United States (highest number of customers).
+ 1-Top Country by Customers: 🇺🇸 United States .
  
- 2-Top Spending Customer: Identified by total purchases across invoices.
+ 2-Top Spending Customer.
  
- 3-Revenue by Genre: Rock and Metal dominate revenue share.
+ 3-Revenue by Genre.
  
- 4-Average Transaction Value: Indicates typical customer spending behavior.
+ 4-Average Transaction Value.
  
- 5-Yearly Revenue Trends: Useful for detecting growth or seasonal performance.
+ 5-Yearly Revenue Trends.
