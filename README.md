@@ -1,9 +1,9 @@
-# Data-analysis-for-a-small-online-music-store🎵 :
+# 🎵 Data-analysis-for-a-small-online-music-store :
 
 This project analyzes sales data from a small online music store to provide key business insights. The goal is to answer critical questions about customer behavior, 
 top-performing products, and overall revenue trends to help inform marketing and product strategy.
 
-# Objectives:    
+#  📌 Objectives:    
 # The analysis aims to answer the following key business questions:
 
 1-Which country has the most customers?
@@ -16,7 +16,7 @@ top-performing products, and overall revenue trends to help inform marketing and
 
 5-What is the total revenue for each year?
 
-# Dataset:
+# 📂 Dataset:
 Source:Dataset link: https://github.com/rishabhnmishra/SQL_Music_Store_Analysis/blob/main/music%20store%20data.zip
 
 Format: CSV files with main tables:
@@ -27,7 +27,7 @@ invoice – invoice-level data (date, billing country, total amount)
 
 invoice_line – purchased items per invoice (unit price, quantity, track ID)
 
-# Project:
+# 🛠 Project:
 Task 1: Data Ingestion & Initial Exploration
 
 ​Task 2: Data Cleaning & Preprocessing
@@ -36,7 +36,7 @@ Task 1: Data Ingestion & Initial Exploration
 
 ​Task 4: Insight Generation & Reporting
 
-# Key Insights
+# 📊 Key Insights
  1-Top Country by Customers: 🇺🇸 United States (highest number of customers).
  
  2-Top Spending Customer: Identified by total purchases across invoices.
